@@ -1,0 +1,12 @@
+# Credentials — never commit
+.env
+*.env
+
+# Output reports (may contain customer-related content)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
